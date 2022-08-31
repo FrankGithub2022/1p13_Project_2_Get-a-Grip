@@ -1,6 +1,3 @@
-'''
-Code by Zifan Si
-'''
 import random
 import time
 import sys
